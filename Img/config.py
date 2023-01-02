@@ -1,0 +1,1 @@
+path = 'C:/Users/37529/PycharmProjects/parsing/Img/img'
